@@ -1,4 +1,4 @@
-# 🎵 Raga Classification Using Deep Learning 🎶
+ka# 🎵 Raga Classification Using Deep Learning 🎶
 
 ## 🌟 Overview
 This project explores deep learning techniques for classifying Indian classical ragas. Unlike Western genre classification, raga classification presents unique challenges due to its modal nature, improvisational aspects, and limited dataset availability. This study aims to overcome these challenges by employing specialized feature extraction and deep learning models.
@@ -63,8 +63,6 @@ This project explores deep learning techniques for classifying Indian classical 
 - 🎼 Incorporating musicological insights to refine classification techniques.
 
 ## 🤝 Contributors
-- **Your Name** ([])
+- **Your Name** ([karthickrio1002@gmail.com])
 
-## 📜 License
-This project is licensed under the MIT License.
 
