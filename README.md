@@ -63,6 +63,6 @@ This project explores deep learning techniques for classifying Indian classical 
 - 🎼 Incorporating musicological insights to refine classification techniques.
 
 ## 🤝 Contributors
-- **Your Name** ([karthickrio1002@gmail.com])
+- **Karthick_M* ([karthickrio1002@gmail.com])
 
 
