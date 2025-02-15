@@ -6,21 +6,21 @@ This project explores deep learning techniques for classifying Indian classical 
 ## 🔥 Features
 - **📂 Dataset**: Curated raga dataset with vocal-only and vocal + instrumental segments.
 - **🧠 Feature Extraction**: 
-  - 🎼 MFCC
-  - 🎵 Chroma CENS
-  - 🎹 Chroma STFT
-  - 📈 RMSE
-  - 🎤 Spectral Centroid
-  - 🎼 Spectral Bandwidth
-  - 🎶 Spectral Rolloff
-  - 🔊 Zero Crossing Rate (ZCR)
-  - 🎻 Pitch Mean
-  - 🎺 Magnitude Mean
+  -  MFCC
+  -  Chroma CENS
+  -  Chroma STFT
+  -  RMSE
+  -  Spectral Centroid
+  - Spectral Bandwidth
+  -  Spectral Rolloff
+  -  Zero Crossing Rate (ZCR)
+  -  Pitch Mean
+  -  Magnitude Mean
 - **🤖 Deep Learning Models**:
-  - 🏗️ LSTM Model
-  - 🏗️ ANN Model with NPZ Data Storage
-  - 🏗️ BERT-Based Transformer Model
-  - 🎯 Final ANN Model without Feature Averaging
+  -  LSTM Model
+  -  ANN Model with NPZ Data Storage
+  -  BERT-Based Transformer Model
+  -  Final ANN Model without Feature Averaging
 - **🛠 Tools Used**:
   - 🎵 `librosa` for feature extraction
   - 🎙 `Demucs` for vocal isolation
@@ -56,25 +56,6 @@ This project explores deep learning techniques for classifying Indian classical 
 - 📊 NumPy, Pandas
 - 🎙 Demucs (for vocal isolation)
 
-### 🛠 Installation
-```bash
-pip install tensorflow librosa numpy pandas
-pip install git+https://github.com/facebookresearch/demucs
-```
-
-### 🚀 Running the Model
-1. Extract features from the dataset:
-   ```bash
-   python feature_extraction.py
-   ```
-2. Train the model:
-   ```bash
-   python train_model.py
-   ```
-3. Evaluate the model:
-   ```bash
-   python evaluate_model.py
-   ```
 
 ## 🔮 Future Scope
 - 📚 Expanding the dataset with more ragas and labeled samples.
@@ -82,7 +63,7 @@ pip install git+https://github.com/facebookresearch/demucs
 - 🎼 Incorporating musicological insights to refine classification techniques.
 
 ## 🤝 Contributors
-- **Your Name** ([Your Email])
+- **Your Name** ([])
 
 ## 📜 License
 This project is licensed under the MIT License.
